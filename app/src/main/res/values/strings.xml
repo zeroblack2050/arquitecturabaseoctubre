@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ArquitecturaMVPBase</string>
+    <string name="product_name">Nombre</string>
+    <string name="product_description">Descripción</string>
+    <string name="product_quantity">Cantidad</string>
+    <string name="product_price">Precio</string>
+    <string name="loading_message">Cargando...</string>
+    <string name="create_button">Crear</string>
+    <string name="okResponseCreateProduct">Producto Creado Correctamente</string>
+    <string name="errResponseCreateProduct">Error Creando el Producto</string>
+
+    <string name="text_description">Descripción</string>
+    <string name="text_name">Nombre</string>
+    <string name="text_price">Precio</string>
+    <string name="text_quantity">Cantidad</string>
+    <string name="text_button">Crear producto</string>
+
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="price">Precio</string>
+    <string name="quantity">Cantidad</string>
+
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+    <string name="validate_internet">Out internet !!!</string>
+    <string name="correct">Eliminado !!!</string>
+    <string name="incorrect">Error !!!</string>
+    <string name="error">Error !!!</string>
+    <string name="update_button">Update Product</string>
+
+</resources>
